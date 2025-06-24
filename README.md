@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sakshi 
 
-🎓 BBA Student | 📊 Aspiring Data Analyst | 🎨 Designer | 💡 Lifelong Learner
+🎓 BBA Student | 📊 Aspiring Data Analyst | 
 
 ---
 
